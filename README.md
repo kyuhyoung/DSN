@@ -71,6 +71,7 @@ cuda 8.0
 
 ## Citing
 If you find the code useful, please cite:
+```
 {@inproceedings{fan2018video,
   title={Video-based Emotion Recognition Using Deeply-Supervised Neural Networks},
   author={Fan, Yingruo and Lam, Jacqueline CK and Li, Victor OK},
@@ -79,3 +80,4 @@ If you find the code useful, please cite:
   year={2018},
   organization={ACM}
 }}
+```

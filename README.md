@@ -1,5 +1,5 @@
 ## Video-based Emotion Recognition Using Deeply-Supervised Neural Networks 
-An ensemble of proposed models achieves an accuracy of 61.10% in EmotiW 2018.  Details about the EmotiW2018 Challenge can be found at: <https://sites.google.com/view/emotiw2018>. For more details about the codes, please refer to our paper.
+An ensemble of proposed models achieves an accuracy of 61.10% in EmotiW 2018.  Details about the EmotiW2018 Challenge can be found at: <https://sites.google.com/view/emotiw2018>. For more details about the codes, please refer to our [paper](https://dl.acm.org/citation.cfm?id=3264978).
 
 
 ### Model accuracy on the validation set:
@@ -72,12 +72,12 @@ cuda 8.0
 ## Citing
 If you find the code useful, please cite:
 ```
-{@inproceedings{fan2018video,
+@inproceedings{fan2018video,
   title={Video-based Emotion Recognition Using Deeply-Supervised Neural Networks},
   author={Fan, Yingruo and Lam, Jacqueline CK and Li, Victor OK},
   booktitle={Proceedings of the 2018 on International Conference on Multimodal Interaction},
   pages={584--588},
   year={2018},
   organization={ACM}
-}}
+}
 ```
